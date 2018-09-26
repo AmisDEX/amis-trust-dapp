@@ -18,3 +18,7 @@ Run `npm run lint` for ESLint<br/>
 Run `./node_modules/.bin/eslint src --fix` to automatically fix problems
 
 See [Airbnb's Javascript styleguide](https://github.com/airbnb/javascript) and [Airbnb's eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) for linting JavaScript.
+
+## Repo
+* Github: https://github.com/AmisDEX/amis-trust-dapp
+* Github.io: https://AmisDEX.github.io/amis-trust-dapp
