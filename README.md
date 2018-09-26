@@ -1,9 +1,9 @@
-# dapps-browser
-DApps browser
+# AmisDex Trust Wallet Dapp browser
+AmisDex Trust Wallet DApp browser
 
 ## Get Started
 ```
-git clone https://github.com/TrustWallet/dapps-browser.git
+git clone https://github.com/amisdex/amis-trust-dapp/amis-trust-dapp.git
 cd dapps-browser
 npm install
 npm start
